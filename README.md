@@ -11,8 +11,8 @@
   <div id="header" align="center">
   
 ### About Me :
-I am data analist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working in SQL and Python as data analist.
+I am data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I’m working in SQL and Python as data analyst.
 
 - :zap: I have more than 10 years expirience in marketing and sales.
 
