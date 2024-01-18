@@ -11,13 +11,13 @@
   <div id="header" align="center">
   
 ### About Me :
-Я аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+Я аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Для работы я использую Python и SQL.
 
-- :zap: Более 10 лет опыта в маркетинге и продажах.
+- :zap: Более 10 лет опыта в маркетинге и продажах
 - :zap: Интересуюсь Big Data и ML
 - :zap: Я уверен, что AI будет приносить пользу людям в ближайшем будущем
-- :zap: Анализ данных может помочь бизнесу приносить пользу обществу прямо сейчас
+- :zap: Анализ данных может помочь бизнесу приносить пользу прямо сейчас
 
 - Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-panda_ora-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
 - ### Языки и технологии :
