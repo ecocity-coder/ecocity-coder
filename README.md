@@ -22,7 +22,8 @@
 - Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-panda_ora-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
 - ### Языки и технологии :
 - ![python](https://img.shields.io/badge/python-316192?style=for-the-badge&logo=docker&logoColor=white)
-- https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+- [https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- 
 ---
 
 ### My Stats :
