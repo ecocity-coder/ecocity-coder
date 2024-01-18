@@ -3,7 +3,7 @@
 </div>
 <div id="badges"align="center">
   <a href="https://www.facebook.com/alexander.andrianov.14/">
-    <img src="(https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   </div>
   <div id="header" align="center">
