@@ -11,14 +11,18 @@
   <div id="header" align="center">
   
 ### About Me :
-I am data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working in SQL and Python as data analyst.
+Я наналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: Для работы я использую Python и SQL.
 
-- :zap: I have more than 10 years expirience in marketing and sales.
+- :zap: Более 10 лет опыта в маркетинге и продажах.
+- :zap: Интересуюсь Big Data и ML
+- :zap: Я уверен, что AI будет приносить пользу людям в ближайшем будущем
+- :zap: Анализ данных может помочь бизнесу приносить пользу обществу прямо сейчас
 
-- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-panda_ora-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
-- ### Languages and Tools :
+- Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-panda_ora-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
+- ### Языки и технологии :
 - ![python](https://img.shields.io/badge/python-316192?style=for-the-badge&logo=docker&logoColor=white)
+- https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 ---
 
 ### My Stats :
