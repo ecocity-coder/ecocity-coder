@@ -14,10 +14,8 @@
 Я аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Для работы я использую Python и SQL.
 
-- :zap: Более 10 лет опыта в маркетинге и продажах
-- :zap: Интересуюсь Big Data и ML
-- :zap: Я уверен, что AI будет приносить пользу людям в ближайшем будущем
-- :zap: Анализ данных может помочь бизнесу приносить пользу прямо сейчас
+- :zap: Из своего опыта в маркетинге и продажах я сделал вывод
+- :zap: Что анализ данных принсит бизнесу большую пользу
 
 - Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-panda_ora-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
 - ### Языки и технологии :
