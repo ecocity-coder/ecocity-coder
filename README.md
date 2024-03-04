@@ -15,7 +15,7 @@
 - :telescope: Для работы я использую Python и SQL.
 
 - :zap: Из своего опыта в маркетинге и продажах я сделал вывод
-- :zap: Что анализ данных приносит бизнесу большую пользу
+Что анализ данных приносит бизнесу большую пользу
 
 - Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-panda_ora-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
 - ### Языки и технологии :
