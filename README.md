@@ -6,7 +6,7 @@
 - Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-panda_ora-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
 - ### Языки и технологии :
 - ![python](https://img.shields.io/badge/python-316192?style=for-the-badge&logo=docker&logoColor=white)           
-            ![pandas](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css")
+      ![jupiter](https://icons8.com/icon/J0SgMWzAxqFj/jupyter)
           
            ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![googlecolab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - 
