@@ -1,21 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp1dTdnam40eDZmd3N3cWt4eXF4YW1oODk5aGExaTNrd2RkYzV6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges"align="center">
-  <a href="https://www.facebook.com/alexander.andrianov.14/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  </div>
-  <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ecocity-coder&style=flat-square&color=blue" alt=""/>
-  <div id="header" align="center">
-  
-### About Me :
-Я аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Меня зовут Александр, я аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Для работы я использую Python и SQL.
 
-- :zap: Из своего опыта в маркетинге и продажах я сделал вывод
-Что анализ данных приносит бизнесу большую пользу
+- :zap: Из своего опыта в маркетинге и продажах я сделал вывод, что анализ данных приносит бизнесу большую пользу
 
 - Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-panda_ora-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
 - ### Языки и технологии :
