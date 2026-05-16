@@ -1,7 +1,9 @@
 Меня зовут Александр, я цифровой гуманитарий. Открываю секреты художественных текстов с помощью Python. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - https://dzen.ru/codslov
 - https://habr.com/ru/users/Eco_coder/articles/
-- Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-panda_ora-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
+- Как связаться со мной:
+- https://max.ru/u/f9LHodD0cOLjV-ujU_Fbiu5fJgDQF-J-yg8kpB3BvRaCHUPZtwKM2AkVfOg
+-   [![Telegram Badge](https://img.shields.io/badge/-panda_ora-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
 - ### Языки и технологии :
 - ![python](https://img.shields.io/badge/python-316192?style=for-the-badge&logo=docker&logoColor=white) 
  
